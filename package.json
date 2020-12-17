@@ -1,7 +1,7 @@
 {
   "name": "project-4-assessment",
   "version": "0.1.0",
-  "homepage": "https://github.com/mrskamran/project-4-assessment/",
+  "homepage": "https://github.com/MrsKamran/project-4-assessment/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
